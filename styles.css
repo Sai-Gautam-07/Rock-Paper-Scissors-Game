@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h1{
+  
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+
+.container {
+  display: inline;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
+.paper {
+  background-image: url("images/paper.jpg");
+}
+
+.rock {
+  background-image: url("images/rock.jpg");
+}
+
+.scissors {
+  background-image: url("images/scissors.jpg");
+  
+}
